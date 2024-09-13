@@ -1,0 +1,10 @@
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\bin\Debug\test-collaborate.exe.config
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\bin\Debug\test-collaborate.exe
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\bin\Debug\test-collaborate.pdb
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.AssemblyReference.cache
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test_collaborate.Properties.Resources.resources
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.GenerateResource.cache
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.CoreCompileInputs.cache
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.exe
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.pdb
+C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test_collaborate.UI.Form2.resources
