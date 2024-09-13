@@ -8,3 +8,13 @@ C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\tes
 C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.exe
 C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test-collaborate.pdb
 C:\Users\POV SOKNEM\source\repos\test-collaborate\test-collaborate\obj\Debug\test_collaborate.UI.Form2.resources
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\bin\Debug\test-collaborate.exe.config
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\bin\Debug\test-collaborate.exe
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\bin\Debug\test-collaborate.pdb
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.AssemblyReference.cache
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test_collaborate.Properties.Resources.resources
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test_collaborate.UI.Form2.resources
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.GenerateResource.cache
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test-collaborate.csproj.CoreCompileInputs.cache
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test-collaborate.exe
+D:\7_1_WebDev\C#\test-csharp-collaborate\test-collaborate\obj\Debug\test-collaborate.pdb
