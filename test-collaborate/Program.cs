@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using test_collaborate.UI;
 
 namespace test_collaborate
 {
@@ -13,7 +14,7 @@ namespace test_collaborate
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new soknem());
         }
     }
 }
